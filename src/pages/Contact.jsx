@@ -122,7 +122,6 @@ const Contact = () => {
                         </div>
                     </div>
                     
-                    {/* Contact Form */}
                     <div className="bg-gray-800 p-8 rounded-lg shadow-lg">
                         <h2 className="text-2xl font-bold mb-6">Send Us a Message</h2>
                         
